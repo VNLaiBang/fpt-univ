@@ -1,5 +1,3 @@
-
-
 public class FightSong {
     public static void song() {
         String intro = "Go, team, go!\nYou can do it.\n";

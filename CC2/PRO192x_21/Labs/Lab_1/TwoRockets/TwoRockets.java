@@ -1,5 +1,3 @@
-
-
 public class TwoRockets {
     public static void name1(int num) {
         if (num == 1) {

@@ -1,5 +1,3 @@
-package Lab_2;
-
 public class ComputePay{
     public static void main(String[] args){
         // Calculate pay at work based on hours worked each day

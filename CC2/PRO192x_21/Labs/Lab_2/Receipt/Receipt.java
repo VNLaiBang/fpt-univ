@@ -1,4 +1,3 @@
-package Lab_2;
 // This program computes the total amount owed for a meal,
 // assuming 8% tax and a 15% tip.
 public class Receipt {

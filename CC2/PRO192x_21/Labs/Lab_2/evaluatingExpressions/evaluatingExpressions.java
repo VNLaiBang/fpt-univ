@@ -1,5 +1,3 @@
-package Lab_2;
-
 public class evaluatingExpressions {
 
     public static void main(String[] args) {
@@ -102,6 +100,7 @@ public class evaluatingExpressions {
         int x = 3;
         x = x + 2;
         x = x + x;
+        
 
         System.out.println("2.12 valueOfX\nx = " + x);
 
@@ -112,6 +111,8 @@ public class evaluatingExpressions {
         a = a + 1;
         b = b - 1;
         c = c + a;
+        
+
         System.out.println("\n2.13 valueOfABC\na = " + a + "\nb = " + b + "\nc = " + c);
 
         /* 2.14 firstSecond */
@@ -120,7 +121,9 @@ public class evaluatingExpressions {
         first = first + second;
         second = first - second;
         first = first - second;
-        System.out.println("2.13 firstSecond\nfirst = " + first + "\nsecond = " + second);
+        
+        
+         System.out.println("2.13 firstSecond\nfirst = " + first + "\nsecond = " + second);
         
         /* 2.15 fisrtSecond2 */
         /* Answer:
@@ -139,7 +142,7 @@ public class evaluatingExpressions {
         System.out.println("\n2.13 valuesOfIJK\ni = " + i + "\nj = " + j + "\nk = " + k);
 
         /* 2.17 maxMin */
-        System.out.println("2.17 maxMin");
+        System.out.println("\n2.17 maxMin");
         int max;
         int min = 10;
         max = 17 - 4 / 10;

@@ -1,5 +1,3 @@
-package Lab_2;
-
 public class Oops2 {
     public static void main(String[] args) {
         int x = 0;

@@ -1,5 +1,3 @@
-
-
 public class MuchBetter {
     public static void main(String[] args) {
         System.out.println("A \"quoted\" String is");

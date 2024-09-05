@@ -1,5 +1,3 @@
-
-
 public class WellFormed {
     public static void main(String[] args) {
         System.out.println("A well-formed Java program has");

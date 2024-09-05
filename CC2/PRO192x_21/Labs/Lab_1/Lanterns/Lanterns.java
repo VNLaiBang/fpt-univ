@@ -1,5 +1,3 @@
-
-
 public class Lanterns {
     public static void name() {
         String x = "    *****\n";

@@ -1,5 +1,3 @@
-
-
 public class EggStop {
     public static void name(String x) {
         if (x.contains("top")) {

@@ -1,5 +1,3 @@
-
-
 public class Stewie2 {
     public static void name(boolean x) {
         if (x) {

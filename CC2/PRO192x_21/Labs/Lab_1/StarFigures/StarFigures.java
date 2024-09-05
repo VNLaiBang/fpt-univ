@@ -1,5 +1,3 @@
-
-
 public class StarFigures {
     public static void star() {
         String x = "*****\n*****\n";

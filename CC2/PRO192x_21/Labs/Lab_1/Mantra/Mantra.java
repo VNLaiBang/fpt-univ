@@ -1,5 +1,3 @@
-
-
 public class Mantra {
     public static void name(String x) {
         System.out.println("There's one thing every coder must understand:");
